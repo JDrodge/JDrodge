@@ -12,10 +12,6 @@
 
 # Favourite Tech
 ## Tools, languages, and other things that I like to work with.
-| Google BigQuery  | Looker | Power BI | DBT | SQL | Python | Git | Docker |
-| ------------- | ------------- |  ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| ![Google BigQuery](/img/google-bigquery-logo-1.svg)  | ![Looker](/img/google-looker-logo.png)  | ![Power BI](/img/Microsoft-Power-BI-Logo.png)  | ![DBT](/img/dbt-logo.png)  | ![SQL](/img/sql-generic-logo.png)  | ![Python](/img/python-logo.jpg)  | ![Git](/img/git-logo.png)  | ![Docker](/img/docker-logo.png)  |
-
 <table>
   <tr>
     <td align="center" width="96">
