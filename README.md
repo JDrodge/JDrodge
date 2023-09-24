@@ -20,49 +20,49 @@
   <tr>
     <td align="center" width="96">
       <a href="Google BigQuery">
-        <img src="./img/google-bigquery-logo-1.svg" width="48" height="48" alt="Google BigQuery" />
+        <img src="./img/google-bigquery-logo-1.svg" width="48" alt="Google BigQuery" />
       </a>
       <br>BigQuery
     </td>
     <td align="center" width="96">
       <a href="Looker">
-        <img src="./img/google-looker-logo.png" width="48" height="48" alt="Looker" />
+        <img src="./img/google-looker-logo.png" width="48" alt="Looker" />
       </a>
       <br>Looker
     </td>
     <td align="center" width="96">
       <a href="Power BI">
-        <img src="./img/Microsoft-Power-BI-Logo.png" width="48" height="48" alt="Power BI" />
+        <img src="./img/Microsoft-Power-BI-Logo.png" width="48"" alt="Power BI" />
       </a>
       <br>Power BI
     </td>
     <td align="center" width="96">
       <a href="DBT">
-        <img src="./img/dbt-logo.png" width="48" height="48" alt="DBT" />
+        <img src="./img/dbt-logo.png" width="48" alt="DBT" />
       </a>
       <br>DBT
     </td>
     <td align="center" width="96">
       <a href="SQL" >
-        <img src="./img/sql-generic-logo.png" width="48" height="48" alt="SQL" />
+        <img src="./img/sql-generic-logo.png" width="48" alt="SQL" />
       </a>
       <br>SQL
     </td>
     <td align="center" width="96"> 
       <a href="Python" >
-        <img src="./img/python-logo.jpg" width="48" height="48" alt="Python" />
+        <img src="./img/python-logo.jpg" width="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center"  width="96">
       <a href="git">
-        <img src="./img/git-logo.png" width="48" height="48" alt="git" />
+        <img src="./img/git-logo.png" width="48" alt="git" />
       </a>
       <br>git
     </td>
     <td align="center" width="96">
       <a href="Docker" >
-        <img src="./img/docker-logo.png" width="48" height="48" alt="Docker" />
+        <img src="./img/docker-logo.png" width="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
