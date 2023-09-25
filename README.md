@@ -66,5 +66,5 @@
 </table>
 
 ## Github statistics
-[![Jonnys's public GitHub stats](https://github-readme-stats-jdrodge.vercel.app/api?username=JDrodge\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github-readme-stats-jdrodge.vercel.app)
+[![Jonnys's public GitHub stats](https://github-readme-stats-jdrodge.vercel.app/api?username=JDrodge\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff\&rank_icon=github)](https://github-readme-stats-jdrodge.vercel.app)
 
