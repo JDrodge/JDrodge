@@ -66,4 +66,5 @@
 </table>
 
 ## Github statistics
-[![Jonnys's public GitHub stats](https://github-readme-stats.vercel.app/api?username=JDrodge)](https://github.com/anuraghazra/github-readme-stats)
+[![Jonnys's public GitHub stats](https://github-readme-stats-jdrodge.vercel.app/api?username=JDrodge)](https://github.com/anuraghazra/github-readme-stats)
+
