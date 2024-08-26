@@ -3,7 +3,7 @@
 
 - 🚀 I enjoy working with large data sets, solving complex product analytics problems and making datasets and BI reports performant with analytics engineering.
 - 🧠 I love projects which combine product management, i.e speaking to customers, prioritising which problems to work on next, teaching / learning from a great team of people around me, and working on technology which makes a positive impact in the world.
-- 
+  
 - 🏢 I’m currently working at [Deel](https://www.deel.com/) on product analytics
 - 💬 Ask me about [Google BigQuery](https://cloud.google.com/bigquery) , [BI](https://cloud.google.com/looker) [tools](https://powerbi.microsoft.com/en-gb/), Product Analytics, Analytics engineering.
 - 📫 Connect with me on: [LinkedIn](https://www.linkedin.com/in/jonnydrodge/)
